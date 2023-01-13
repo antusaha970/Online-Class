@@ -1,0 +1,9 @@
+.table td, .table th {
+    font-size: 20px;
+}
+
+.cart {
+    position: sticky;
+    top: 5px;
+    margin-top: 15px;
+}
